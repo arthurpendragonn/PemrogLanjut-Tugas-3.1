@@ -1,0 +1,10 @@
+C:\Users\Dito\source\repos\TugasTiga1\TugasTiga1\bin\Debug\TugasTiga1.exe.config
+C:\Users\Dito\source\repos\TugasTiga1\TugasTiga1\bin\Debug\TugasTiga1.exe
+C:\Users\Dito\source\repos\TugasTiga1\TugasTiga1\bin\Debug\TugasTiga1.pdb
+C:\Users\Dito\source\repos\TugasTiga1\TugasTiga1\obj\Debug\TugasTiga1.csprojAssemblyReference.cache
+C:\Users\Dito\source\repos\TugasTiga1\TugasTiga1\obj\Debug\TugasTiga1.Form1.resources
+C:\Users\Dito\source\repos\TugasTiga1\TugasTiga1\obj\Debug\TugasTiga1.Properties.Resources.resources
+C:\Users\Dito\source\repos\TugasTiga1\TugasTiga1\obj\Debug\TugasTiga1.csproj.GenerateResource.cache
+C:\Users\Dito\source\repos\TugasTiga1\TugasTiga1\obj\Debug\TugasTiga1.csproj.CoreCompileInputs.cache
+C:\Users\Dito\source\repos\TugasTiga1\TugasTiga1\obj\Debug\TugasTiga1.exe
+C:\Users\Dito\source\repos\TugasTiga1\TugasTiga1\obj\Debug\TugasTiga1.pdb
